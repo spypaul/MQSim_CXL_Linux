@@ -11,7 +11,7 @@ To learn more, please keep reading this documentation. Our research paper, _Over
 2. This repository contains the Linux version of the device simulator. We recommend using a machine with Ubuntu 20.04.5 LTS. 
 
 \*Note that we had to modify the source code to make the simulator compaitable with a Linux environment.
-Also, the simulator can take up large amount of memory space (32GB or more). Due to the difference in managing swap space, the Linux environment may kill the simulator process if the memory usage exceeds the system limit. To avoid the issue, users can decrease the simulated device capacity by modifying **<Block_No_Per_Plane>** to adjust the capcity of the simulated device. 
+Also, the simulator can take up large amount of memory space (32GB or more). Due to the difference in managing swap space, the Linux environment may kill the simulator process if the memory usage exceeds the system limit. To avoid the issue, users can decrease the simulated device capacity by modifying **<Block_No_Per_Plane>** to adjust the size of the simulated device. 
 
 *We recommend using the [Windows version](https://github.com/spypaul/MQSim_CXL.git) if possible as it is tested thoroughly and works with a larger capacity setup.
 
