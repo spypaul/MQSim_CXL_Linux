@@ -13,7 +13,7 @@ To learn more, please keep reading this documentation. Our research paper, _Over
 *Note that we had to modify the source code to make the simulator compaitable with a Linux environment.
 Also, the simulator can take up large amount of memory space (32GB or more). Due to the setup difference of swap space in different environments, the Linux envriornment may kill the simulator if the memory usage is too large. To avoid the issue, users can decrease the simulated device capacity by modifying **<Block_No_Per_Plane>** to adjust the capcity of the simulated device. 
 
-*We recommand using the [Windows version](https://github.com/spypaul/MQSim_CXL.git) if possible as it is tested thoroughly and works with a large capacity setup.
+*We recommend using the [Windows version](https://github.com/spypaul/MQSim_CXL.git) if possible as it is tested thoroughly and works with a larger capacity setup.
 
 Source code: 
 
