@@ -2,6 +2,8 @@
 #define DRAM_SUBSYSTEM_H
 
 #include <iostream>
+#include <cstdint>
+
 #include <set>
 #include <map>
 #include <vector>
