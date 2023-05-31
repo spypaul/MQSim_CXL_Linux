@@ -1,6 +1,8 @@
 #ifndef HOST_INTERFACE_CXL_H
 #define HOST_INTERFACE_CXL_H
 
+#include <cstdint>
+
 #include <vector>
 #include <list>
 #include <map>
