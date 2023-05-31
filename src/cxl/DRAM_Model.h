@@ -1,6 +1,8 @@
 #pragma once
 
 #include <iostream>
+#include <cstdint>
+
 #include <list>
 #include <map>
 #include "../sim/Sim_Object.h"
