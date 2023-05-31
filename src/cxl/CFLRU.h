@@ -1,7 +1,7 @@
 #pragma once
 #pragma once
 #include <iostream>
-
+#include <cstdint>
 #include <map>
 
 using namespace std;
