@@ -1,5 +1,7 @@
 #pragma once
 #include <vector>
+#include <cstdint>
+
 #include <map>
 #include <tgmath.h>
 using namespace std;
