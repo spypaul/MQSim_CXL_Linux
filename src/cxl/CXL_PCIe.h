@@ -2,6 +2,8 @@
 #define CXL_PCIE_H
 
 #include <list>
+#include <cstdint>
+
 #include "../sim/Sim_Defs.h"
 #include "../sim/Sim_Object.h"
 #include "../sim/Sim_Event.h"
